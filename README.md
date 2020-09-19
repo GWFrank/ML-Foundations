@@ -1,2 +1,2 @@
 # ML-Foundations
- Coursera course "Machine Learning Foudations"
+ Some codes for tests in the coursera course "Machine Learning Foudations"
